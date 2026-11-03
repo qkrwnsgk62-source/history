@@ -1,0 +1,6 @@
+{
+  "name": "한국사 연대기 마스터 - 한능검 심화 퀴즈 서바이벌",
+  "description": "한국사능력검정시험(심화) 대비 8대 시대 연대기 순서 맞추기, 빈칸 채우기, 양자택일 O/X 서바이벌 웹 게임",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
